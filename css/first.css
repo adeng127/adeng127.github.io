@@ -652,7 +652,7 @@ button {
     --color-h4: rgba(255,255,255,0.6);
     --color-h5: rgba(255,255,255,0.6);
     --color-h6: rgba(255,255,255,0.6);
-    --color-p: rgba(255,255,255,0.6);
+    --color-p: rgba(217,217,217,0.871);
     --color-list: rgba(217,217,217,0.871);
     --color-list-hl: #a7ddff;
     --color-meta: rgba(191,191,191,0.871);
@@ -724,7 +724,7 @@ button {
   --color-h4: rgba(255,255,255,0.6);
   --color-h5: rgba(255,255,255,0.6);
   --color-h6: rgba(255,255,255,0.6);
-  --color-p: rgba(255,255,255,0.6);
+  --color-p: rgba(217,217,217,0.871);
   --color-list: rgba(217,217,217,0.871);
   --color-list-hl: #a7ddff;
   --color-meta: rgba(191,191,191,0.871);
